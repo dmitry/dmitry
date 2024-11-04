@@ -1,6 +1,6 @@
 ### About
 
-I’m a full-stack developer who’s best at backend work, but I can also handle DevOps, frontend, UX, and UI. I work directly with clients to build software that solves their problems. My goal is to make useful tools that help businesses grow.
+As a Fullstack Software Engineer with over 17 years of experience, I specialize in building scalable platforms using Ruby on Rails and modern JavaScript frameworks. I have deep expertise in B2B and consumer applications, with a strong focus on backend architecture, real-time features, and API design. I optimise system performance, implement robust testing strategies, and maintain clean, maintainable codebases. With a proven track record of leading small engineering teams, I balance rapid MVP delivery with sustainable, long-term development practices, ensuring high-quality solutions that scale.
 
 ### Skills
 
@@ -25,7 +25,7 @@ Databases
 Testing
 - RSpec
 - Cypress
-- 
+ 
 ### My github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dmitry&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
