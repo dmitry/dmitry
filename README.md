@@ -1,30 +1,6 @@
 ### About
 
-As a Fullstack Software Engineer with over 17 years of experience, I specialize in building scalable platforms using Ruby on Rails and modern JavaScript frameworks. I have deep expertise in B2B and consumer applications, with a strong focus on backend architecture, real-time features, and API design. I optimise system performance, implement robust testing strategies, and maintain clean, maintainable codebases. With a proven track record of leading small engineering teams, I balance rapid MVP delivery with sustainable, long-term development practices, ensuring high-quality solutions that scale.
-
-### Skills
-
-Server-side
-- Ruby on Rails
-- Node.js
-
-Client-side
-- Vue.js
-- Quasar framework
-- React
-- Apollo GraphQL
-  
-Databases
-- MySQL
-- PostgreSQL
-- Redis
-- Elasticsearch
-- SQLite
-- memcached
-  
-Testing
-- RSpec
-- Cypress
+As a Fullstack Software Engineer with over 17 years of experience, I specialize in building scalable platforms using Ruby on Rails and modern JavaScript frameworks. I have deep expertise in B2B and consumer applications, with a strong focus on backend architecture, real-time features, and API design. I optimise system performance, implement robust testing strategies, and maintain clean codebases. Skilled at building MVPs that scale, with a focus on sustainable architecture and team development. I am also a contributor to the Ruby on Rails framework, with more than several patches merged into the core codebase.
  
 ### My github stats
 
